@@ -1,4 +1,4 @@
-# Vitamin Deficiency Detection via Computer Vision 🩺👁️
+# Vitamin Deficiency Detection via Computer Vision
 
 ## Overview
 Nutrient deficiencies often go undiagnosed until severe physical symptoms manifest. Traditional diagnostic methods (blood panels) are invasive, expensive, and resource-intensive. This project introduces a **non-invasive, deep learning-based pre-screening tool** designed to analyze visible dermatological and ocular symptoms and detect potential vitamin deficiencies. 
